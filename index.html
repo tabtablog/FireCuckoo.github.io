@@ -261,16 +261,6 @@
         </li>
       
         
-        <li class="menu-item menu-item-categories">
-          <a href="/categories/" rel="section">
-            
-              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
-            
-            Categories
-          </a>
-        </li>
-      
-        
         <li class="menu-item menu-item-archives">
           <a href="/archives/" rel="section">
             
@@ -347,7 +337,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://FireCuckoo.com/2017/11/03/hello-world/">
+    <link itemprop="mainEntityOfPage" href="http://FireCuckoo.com/2017/11/03/Hexo on GitHub/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="FireCuckoo">
@@ -366,7 +356,7 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2017/11/03/hello-world/" itemprop="url">Hello World</a></h1>
+                <a class="post-title-link" href="/2017/11/03/Hexo on GitHub/" itemprop="url">Hexo on GitHub</a></h1>
         
 
         <div class="post-meta">
@@ -378,7 +368,7 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2017-11-03T17:53:56+08:00">
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2017-11-03T22:07:23+08:00">
                 2017-11-03
               </time>
             
@@ -397,9 +387,9 @@
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
-                <a href="/2017/11/03/hello-world/#comments" itemprop="discussionUrl">
+                <a href="/2017/11/03/Hexo on GitHub/#comments" itemprop="discussionUrl">
                   <span class="post-comments-count disqus-comment-count"
-                        data-disqus-identifier="2017/11/03/hello-world/" itemprop="commentCount"></span>
+                        data-disqus-identifier="2017/11/03/Hexo on GitHub/" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -429,15 +419,31 @@
       
         
           
-            <p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+            <h3 id="Preparation"><a href="#Preparation" class="headerlink" title="Preparation"></a>Preparation</h3><ul>
+<li>GitHub:<ol>
+<li>Register</li>
+<li>New repo: FireCuckoo.github.io</li>
+</ol>
+</li>
+<li>Install Git,Node.js</li>
+<li>Use Git Bash</li>
+</ul>
+<h3 id="Settings-for-GitHub"><a href="#Settings-for-GitHub" class="headerlink" title="Settings for GitHub"></a>Settings for GitHub</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">cd c:</div><div class="line">cd Users/FireCuckoo</div><div class="line">mkdir MyGit</div><div class="line">cd Mygit</div><div class="line">git init</div><div class="line">git config --global user.name &quot;FireCuckoo&quot;</div><div class="line">git config --global user.email &quot;FireCuckoo@gmail.com&quot;</div><div class="line">ssh-keygen -t rsa -C &quot;FireCuckoo@gmail.com&quot;</div></pre></td></tr></table></figure>
+<p>add C:\Users\FireCuckoo.ssh\id_rsa.pub to GitHub</p>
+<h4 id="Settings-for-hexo"><a href="#Settings-for-hexo" class="headerlink" title="Settings for hexo"></a>Settings for hexo</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">cd /c/Users/FireCuckoo/</div><div class="line">mkdir hexo</div><div class="line">cd hexo</div><div class="line">npm install hexo-cli -g</div><div class="line">hexo init</div><div class="line">hexo g</div><div class="line">hexo s</div></pre></td></tr></table></figure>
+<p>open URL: <a href="http://localhost:4000" target="_blank" rel="external">http://localhost:4000</a></p>
+<p>open <code>~/hexo/_config.yml</code></p>
+<p><code>Ctrl F</code> Search “deploy”</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">deploy:</div><div class="line">  type: git</div><div class="line">  repository: git@github.com:FireCuckoo/FireCuckoo.github.io.git</div><div class="line">  branch: master</div></pre></td></tr></table></figure>
+<p>Git bash:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">npm install hexo-deployer-git --save</div><div class="line">hexo d</div></pre></td></tr></table></figure>
+<p>visit <a href="http://theme-next.iissnan.com/" target="_blank" rel="external">http://theme-next.iissnan.com/</a> to use <code>next</code> theme more features</p>
+<p>hexo/source/CNAME &gt; FireCuckoo.com</p>
+<p>FireCuckoo:<br>CNAME WWW FireCuckoo.github.io</p>
+<p>Get <code>ip</code><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">ping FireCuckoo.github.io</div></pre></td></tr></table></figure></p>
+<p>add record to DNS</p>
+<p>A @ <code>ip</code></p>
+<p>```</p>
 
           
         
