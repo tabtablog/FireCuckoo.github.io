@@ -4,5 +4,8 @@
     <title><![CDATA[Hexo on GitHub]]></title>
     <url>%2F2017%2F11%2F03%2FHexo%20on%20GitHub%2F</url>
     <content type="text"><![CDATA[Preparation GitHub: Register New repo: FireCuckoo.github.io Install Git,Node.js Use Git Bash Settings for GitHub12345678cd c:cd Users/FireCuckoomkdir MyGitcd Mygitgit initgit config --global user.name &quot;FireCuckoo&quot;git config --global user.email &quot;FireCuckoo@gmail.com&quot;ssh-keygen -t rsa -C &quot;FireCuckoo@gmail.com&quot; add C:\Users\FireCuckoo.ssh\id_rsa.pub to GitHub Settings for hexoInit hexo1234567cd /c/Users/FireCuckoo/mkdir hexocd hexonpm install hexo-cli -ghexo inithexo ghexo s open URL: http://localhost:4000 Connect to GitHubopen ~/hexo/_config.yml Ctrl F Search “deploy” 1234deploy: type: git repository: git@github.com:FireCuckoo/FireCuckoo.github.io.git branch: master Git bash: 12npm install hexo-deployer-git --savehexo d Make it looks bettervisit http://theme-next.iissnan.com/ to use next theme more features;Use Search Engine, key word “hexo 美化”. Connect GitHub to your domain nameLocal SettingsNew filechange directory to ~/hexo/source new a file named CNAME, write in FireCuckoo.com, save. Git Bashopen Git Bashping FireCuckoo.github.iocopy the ip address DNS SettingsGo your domain name service:add recordCNAME WWW FireCuckoo.github.ioA @ 151.101.197.147 First PostGit Bash:hexo new &quot;Hexo on GitHub&quot;File Explorer:~/hexo/source/_postschange the content of &quot;Hexo on GitHub&quot;save.Git Bash:123hexo cleanhexo ghexo d Browser:http://www.FireCuckoo.com ALL DONE]]></content>
+      <tags>
+        <tag>blog</tag>
+      </tags>
   </entry>
 </search>
