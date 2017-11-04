@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://FireCuckoo.com/"/>
-  <updated>2017-11-04T02:52:15.348Z</updated>
+  <updated>2017-11-04T03:46:51.495Z</updated>
   <id>http://FireCuckoo.com/</id>
   
   <author>
@@ -21,19 +21,27 @@
     <link href="http://FireCuckoo.com/2017/11/04/AvatarbyGIMP.html"/>
     <id>http://FireCuckoo.com/2017/11/04/AvatarbyGIMP.html</id>
     <published>2017-11-04T02:50:52.000Z</published>
-    <updated>2017-11-04T02:52:15.348Z</updated>
+    <updated>2017-11-04T03:46:51.495Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>How did I draw avatar by GIMP 2</p></blockquote><h3 id="Pick-favorite-prototype-image"><a href="#Pick-favorite-prototype-image" class="headerlink" title="Pick favorite prototype image"></a>Pick favorite prototype image</h3><ol><li>Choose one topic for me:<ul><li>I like wind.</li><li>Aquarius.</li><li>I enjoy the time when fire burning during my childhood.</li><li>Also I cherish the memory of cuckoo’s singing.</li><li>…</li></ul></li><li>Search <code>Cuckoo simple</code> to browse picture and download which interests me most as the prototype.(Then my body was full of power.)</li><li>Try different combination of every characters in “FireCuckoo” to replace the lines in prototype image. Dawn on papers, it’s interesting.</li></ol><h3 id="Draw-FireCuckoo-by-GIMP"><a href="#Draw-FireCuckoo-by-GIMP" class="headerlink" title="Draw FireCuckoo by GIMP"></a>Draw FireCuckoo by GIMP</h3><blockquote><p>GIMP is an open-source, cross-platform and powerful GNU Image Manipulation Program.</p></blockquote><ol><li>Search “GIMP”, install, and open it.</li><li><code>File</code>, <code>New</code>, width:1024, Height:1024, OK.</li><li><code>File</code>, <code>Open as layers...</code>,choose the prototype image.</li><li><code>Ctrl L</code> to open <code>Layers Brushes</code>, <code>Ctrl B</code> to open <code>Toolbox</code>, <code>Tab</code> key for open/Close them.</li><li><code>Right Click</code> prototype.jpg, <code>new layer</code>, OK.</li><li>Find A icon in <code>Toolbox</code>, Set text size:256,color red.</li><li>Input “F”.</li><li>Hit <code>ESC</code>: Back to select mode.</li><li><code>Shift R</code>: rotate “F”, <code>Up</code> &amp; <code>Down</code> key is available. <code>Shift T</code>: move, scale “F”. <code>Enter</code>: confirm modification.</li><li>Put “F” to the appropriate location where it can fit partial lines of prototype image.</li><li>Do Step <code>7</code> to <code>10</code> for every character in “FireCuckoo”, notice that drag per-character layer on the front of prototype and background.</li><li>Adjust more to make it look better.</li><li><code>Layer</code>, prototype image layer, <code>Right Click</code>, Delete Layer.</li><li><code>Layer</code>: Right Click. Merge all layers down into Background.</li><li><code>File</code>, <code>Export</code>.</li></ol>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>How did I draw avatar by GIMP 2</p></blockquote><h3 id="Pick-favorite-prototype-image"><a href="#Pick-favorite-prototype-image" class="headerlink" title="Pick favorite prototype image"></a>Pick favorite prototype image</h3><ol><li>Choose one topic for me:<ul><li>I like wind.</li><li>Aquarius.</li><li>I enjoy the time when fire burning during my childhood.</li><li>Also I cherish the memory of cuckoo’s singing.</li><li>…</li></ul></li><li>Search <code>Cuckoo simple</code> to browse picture and download which interests me most as the prototype.(Then my body was full of power.)</li><li>Try different combination of every characters in “FireCuckoo” to replace the lines in prototype image. Dawn on papers, it’s interesting.</li></ol><a id="more"></a><h3 id="Draw-FireCuckoo-by-GIMP"><a href="#Draw-FireCuckoo-by-GIMP" class="headerlink" title="Draw FireCuckoo by GIMP"></a>Draw FireCuckoo by GIMP</h3><blockquote><p>GIMP is an open-source, cross-platform and powerful GNU Image Manipulation Program.</p></blockquote><ol><li>Search “GIMP”, install, and open it.</li><li><code>File</code>, <code>New</code>, width:1024, Height:1024, OK.</li><li><code>File</code>, <code>Open as layers...</code>,choose the prototype image.</li><li><code>Ctrl L</code> to open <code>Layers Brushes</code>, <code>Ctrl B</code> to open <code>Toolbox</code>, <code>Tab</code> key for open/Close them.</li><li><code>Right Click</code> prototype.jpg, <code>new layer</code>, OK.</li><li>Find A icon in <code>Toolbox</code>, Set text size:256,color red.</li><li>Input “F”.</li><li>Hit <code>ESC</code>: Back to select mode.</li><li><code>Shift R</code>: rotate “F”, <code>Up</code> &amp; <code>Down</code> key is available. <code>Shift T</code>: move, scale “F”. <code>Enter</code>: confirm modification.</li><li>Put “F” to the appropriate location where it can fit partial lines of prototype image.</li><li>Do Step <code>7</code> to <code>10</code> for every character in “FireCuckoo”, notice that drag per-character layer on the front of prototype and background.</li><li>Adjust more to make it look better.</li><li><code>Layer</code>, prototype image layer, <code>Right Click</code>, Delete Layer.</li><li><code>Layer</code>: Right Click. Merge all layers down into Background.</li><li><code>File</code>, <code>Export</code>.</li></ol>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;blockquote&gt;
+      &lt;blockquote&gt;
 &lt;p&gt;How did I draw avatar by GIMP 2&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h3 id=&quot;Pick-favorite-prototype-image&quot;&gt;&lt;a href=&quot;#Pick-favorite-prototype-i
-      
+&lt;h3 id=&quot;Pick-favorite-prototype-image&quot;&gt;&lt;a href=&quot;#Pick-favorite-prototype-image&quot; class=&quot;headerlink&quot; title=&quot;Pick favorite prototype image&quot;&gt;&lt;/a&gt;Pick favorite prototype image&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Choose one topic for me:&lt;ul&gt;
+&lt;li&gt;I like wind.&lt;/li&gt;
+&lt;li&gt;Aquarius.&lt;/li&gt;
+&lt;li&gt;I enjoy the time when fire burning during my childhood.&lt;/li&gt;
+&lt;li&gt;Also I cherish the memory of cuckoo’s singing.&lt;/li&gt;
+&lt;li&gt;…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Search &lt;code&gt;Cuckoo simple&lt;/code&gt; to browse picture and download which interests me most as the prototype.(Then my body was full of power.)&lt;/li&gt;
+&lt;li&gt;Try different combination of every characters in “FireCuckoo” to replace the lines in prototype image. Dawn on papers, it’s interesting.&lt;/li&gt;
+&lt;/ol&gt;
     
     </summary>
     
