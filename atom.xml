@@ -43,7 +43,7 @@
     <link href="http://FireCuckoo.com/2017/11/04/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.html"/>
     <id>http://FireCuckoo.com/2017/11/04/设计模式.html</id>
     <published>2017-11-04T07:21:19.000Z</published>
-    <updated>2017-11-05T07:39:19.377Z</updated>
+    <updated>2017-11-05T07:59:48.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="参考书目"><a href="#参考书目" class="headerlink" title="参考书目"></a>参考书目</h2><ul><li>《设计模式包教不教会》</li></ul><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><blockquote><p>设计模式（Design Pattern）是对软件设计中普遍存在（反复出现）的问题的抽象解决方案。</p></blockquote><p><code>Gang of Four</code>所著《设计模式》一书中将设计模式分为创建型、结构性、行为型模式，把他们通过授权、聚合、诊断概念描述。参考接口、内聚、继承、多态。</p>]]></content>
     
