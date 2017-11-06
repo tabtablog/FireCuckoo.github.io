@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.firecuckoo.com/"/>
-  <updated>2017-11-05T07:39:16.828Z</updated>
+  <updated>2017-11-05T15:20:38.026Z</updated>
   <id>http://www.firecuckoo.com/</id>
   
   <author>
@@ -15,6 +15,72 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LearnLinux</title>
+    <link href="http://www.firecuckoo.com/2017/11/05/LearnLinux.html"/>
+    <id>http://www.firecuckoo.com/2017/11/05/LearnLinux.html</id>
+    <published>2017-11-05T11:38:40.000Z</published>
+    <updated>2017-11-05T15:20:38.026Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="http://www.firecuckoo.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows10 常用操作</title>
+    <link href="http://www.firecuckoo.com/2017/11/05/Windows10%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.html"/>
+    <id>http://www.firecuckoo.com/2017/11/05/Windows10常用操作.html</id>
+    <published>2017-11-05T10:54:42.000Z</published>
+    <updated>2017-11-05T15:26:54.396Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>任意目录文件下，<code>按住Shift+点击右键</code>可打开<code>Power Shell</code></li><li><code>WIN键 X</code>可选择打开管理员权限的<code>Power Shell(Admin)</code></li><li><code>Windows 10</code> <code>C:\</code>下文件的操作需要管理员权限，没有权限无法更改文件内容。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;任意目录文件下，&lt;code&gt;按住Shift+点击右键&lt;/code&gt;可打开&lt;code&gt;Power Shell&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;WIN键 X&lt;/code&gt;可选择打开管理员权限的&lt;code&gt;Power Shell(Admin)&lt;/code&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="Windows 10" scheme="http://www.firecuckoo.com/tags/Windows-10/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Learn Java</title>
+    <link href="http://www.firecuckoo.com/2017/11/05/LearnJava.html"/>
+    <id>http://www.firecuckoo.com/2017/11/05/LearnJava.html</id>
+    <published>2017-11-05T10:34:03.000Z</published>
+    <updated>2017-11-05T15:20:40.584Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Java"><a href="#Java" class="headerlink" title="Java"></a>Java</h3><ul><li><code>JDK 9</code>官网下载<ol><li><code>Windows 10</code> 下<ul><li><code>JDK 9</code>安装时默认在<code>Path</code> 添加了<code>C:\ProgramData\Oracle\Java\javapath</code>,该路径下其下有文件<ul><li><code>java.exe</code>,</li><li><code>javaw.exe</code></li><li><code>javaws.exe</code></li></ul></li><li>删除在<code>Path</code>中的<code>C:\ProgramData\Oracle\Java\javapath</code>，手动指定。<ul><li>新建系统变量：<code>JAVA_HOME</code>: <code>C:\Program Files\Java\jdk-9.0.1</code></li><li><code>Path</code>中添加纪录:<code>%JAVA_HOME%\bin</code></li><li><code>classpath</code>:该环境变量指定了运行<code>Java</code>命令时时后要找的class路径，默认不需要创建此条环境变量，会自动识别当前目录的class，如果运行时需要其他路经的class（如导入其他jar包）,则需要将需要的class文件或jar包路径加入<code>classpath</code>.</li></ul></li></ul></li></ol></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;Java&quot;&gt;&lt;a href=&quot;#Java&quot; class=&quot;headerlink&quot; title=&quot;Java&quot;&gt;&lt;/a&gt;Java&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;JDK 9&lt;/code&gt;官网下载&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;Windows 10&lt;/code&gt; 下
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://www.firecuckoo.com/tags/Java/"/>
+    
+  </entry>
   
   <entry>
     <title>勤学不辍</title>
