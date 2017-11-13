@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.firecuckoo.com/"/>
-  <updated>2017-11-07T13:03:40.221Z</updated>
+  <updated>2017-11-10T06:59:41.557Z</updated>
   <id>http://www.firecuckoo.com/</id>
   
   <author>
@@ -17,24 +17,40 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>勤学不辍</title>
-    <link href="http://www.firecuckoo.com/2017/11/06/%E5%8B%A4%E5%AD%A6%E4%B8%8D%E8%BE%8D.html"/>
-    <id>http://www.firecuckoo.com/2017/11/06/勤学不辍.html</id>
-    <published>2017-11-06T02:27:44.000Z</published>
-    <updated>2017-11-07T13:03:40.221Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>勤学不是不经思考不选方向不用方法的死学，而是终身学习的意识。</p></blockquote><a id="more"></a><h3 id="关于投胎"><a href="#关于投胎" class="headerlink" title="关于投胎"></a>关于投胎</h3><blockquote><p>个人的出生是随机的，上天给自己的肢体健全或是残缺，家庭美满或是破裂，容貌美或丑，都是随机的。幸运和不幸的先天条件难道除了接受还会有更好的选择嘛？对大多数人来讲，最怕置自身优势而不顾，满眼盯着自己的劣势妄自菲薄，自己沉浸在悲壮的情境中。</p></blockquote><!--more--><ul><li>艰苦环境中<ul><li>放任自流的不被世界记住的人有很多</li><li>享誉全球的也有很多</li></ul></li><li><p>含着金汤匙出生的</p><ul><li>有谨慎克制，充分借助自己的先天条件更加奋发向上的。</li><li>也有因为出身就以此为荣败光家底的。</li></ul></li><li><p>他们怎样都是天的安排，只要是积极面对对自己和周围有着积极影响的，人们都会给予尊重，而生活也会给自己汇报。</p></li><li>而自己，不要限制自己，为了自己喜欢的，为什么不能去必要的尝试？为什么就非要认为自己是最无能的一个，这样就可以心安理得的什么都不做了嘛？</li><li>如果非要例子，那么随便翻一翻一个人的履历，大都会有失意的人生阶段，迅速的调整，找出问题，积极面对才会自我革新，有所进步。</li><li>高中时候写议论文举的例子很多，邓小平几度被贬几度提拔最终开启了中国的春天。文化大革命中没能熬过来的人，就永远的消失了，他们或受到永远的冤屈的评价或被人平反诸如刘少奇同志们，而邓小平们用勇气和智慧挺过了混乱的时代，并开启了大国富强之路。</li><li><strong>大丈夫能屈能伸</strong></li><li>面对诱惑，懒惰等阻碍我们发展的劲敌，我们要克制自强，专心于自己该做的，迎难而上。</li><li>而面对自己错误的做法，强硬下去就容易钻牛角尖。</li><li>故刚柔并济，在逆境中不要太悲观，认清自己，找到还能触碰必须争取的机会。而在顺境中告诉自己不要骄傲自满，大意失荆州，没有败不完的家底，英国不也从全球霸主退缩成五常之一，如今退居二线，静静看着美中各方面的对弈。</li></ul><blockquote><p>无数的自身或是他人的教训告诉我们，或混乱不堪或引以为豪的过去已经过去。<strong>而此刻，就是最好的时候。</strong></p></blockquote>]]></content>
+    <title>Learn Rust</title>
+    <link href="http://www.firecuckoo.com/2017/11/10/Learn-Rust.html"/>
+    <id>http://www.firecuckoo.com/2017/11/10/Learn-Rust.html</id>
+    <published>2017-11-10T06:59:41.000Z</published>
+    <updated>2017-11-10T06:59:41.557Z</updated>
     
     <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;勤学不是不经思考不选方向不用方法的死学，而是终身学习的意识。&lt;/p&gt;
-&lt;/blockquote&gt;
     
     </summary>
     
     
-      <category term="learn" scheme="http://www.firecuckoo.com/tags/learn/"/>
+  </entry>
+  
+  <entry>
+    <title>大话数据结构笔记</title>
+    <link href="http://www.firecuckoo.com/2017/11/09/%E5%88%9D%E8%AF%BB%E3%80%8A%E5%A4%A7%E8%AF%9D%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%8B.html"/>
+    <id>http://www.firecuckoo.com/2017/11/09/初读《大话数据结构》.html</id>
+    <published>2017-11-09T01:48:20.000Z</published>
+    <updated>2017-11-10T07:13:22.460Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Chapter-1-绪论"><a href="#Chapter-1-绪论" class="headerlink" title="Chapter 1 绪论"></a>Chapter 1 绪论</h2><blockquote><p>喜欢做，做得好，得到市场认可，个人来来帮助，所以作者继续出书。</p></blockquote><h3 id="关于本书"><a href="#关于本书" class="headerlink" title="关于本书"></a>关于本书</h3><ul><li>本书为自读书本，旨在靠自己独立学习本书作为学习主要方式，非教学大纲式教材</li><li>趣引导，图文并，代码详，形式新。</li><li>为了通用性，牺牲便利性，采用C89标准重写了代码。</li><li>不停的练习。</li><li>目标:默写基本的算法</li><li>准备：作者阅读了大量数据结构和算法相关的书籍。</li><li>感谢：家人奉献，朋友支持，出版社，已经所有给予帮助的人。</li></ul><h3 id="数据结构概念"><a href="#数据结构概念" class="headerlink" title="数据结构概念"></a>数据结构概念</h3><ul><li><strong>数据结构</strong>：是相互之间<strong>存在一种或多种关系</strong>的<strong>数据元素的集合</strong>。</li><li><strong>数据</strong>：描述客观事物的符号，是计算机可以操作的对象，能被计算机<strong>识别、处理</strong>的符号合集。</li><li><strong>数据元素</strong>：组成数据的、有一定意义的基本单位，在计算机中通常u哦为整体处理。亦被称作<strong>记录</strong>。</li><li><strong>数据项</strong>：一个数据元素可由若干数据项组成。数据翔实数据不可分割的<strong>最小单位</strong>。</li><li><strong>数据对象</strong>：性质相同的数据元素的集合，数据的子集。</li><li><strong>逻辑结构</strong>：数据对象中数据元素之间的相互关系。<ul><li>集合</li><li>线性</li><li>树形</li><li>图</li></ul></li><li><strong>物理结构</strong>：数据的逻辑结构在计算机中的存储方式。（主要指内存）<ul><li>顺序</li><li>链式</li></ul></li><li><strong>数据类型</strong>：性质相同的值的集合+此集合上的操作<ul><li>原子类型</li><li>复合类型</li></ul></li><li><strong>抽象数据类型</strong>：ATD（Abstract Data Type）</li></ul><h3 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h3><ul><li>数据<ul><li>数据对象<ul><li>数据元素<ul><li>数据项</li></ul></li></ul></li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Chapter-1-绪论&quot;&gt;&lt;a href=&quot;#Chapter-1-绪论&quot; class=&quot;headerlink&quot; title=&quot;Chapter 1 绪论&quot;&gt;&lt;/a&gt;Chapter 1 绪论&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;喜欢做，做得好，得到市场认可，个人
+      
+    
+    </summary>
+    
+    
+      <category term="algorithm" scheme="http://www.firecuckoo.com/tags/algorithm/"/>
     
   </entry>
   
